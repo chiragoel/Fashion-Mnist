@@ -1,1 +1,1 @@
-# Fasion-Mnist
+# Fashion-Mnist
